@@ -1,0 +1,7 @@
+django
+pillow
+psycopg2
+django-environ
+django-allauth
+django-crispy-forms
+django-debug_toolbar
