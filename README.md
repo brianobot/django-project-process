@@ -13,4 +13,4 @@ Being a open-source project, this memo is available to every capable member of t
 anyone and everyone willing is welcomed to make adjustments to the instructions stated here, in order to increase said productivity and security, when such contributions as been made, it's very important to start comprehensively alongside such instructions, the motive of the contribution, in cases where the motive is clear and obvious even to not-so-mature python-django developer, it can be safely just be mentioned without diving too much into an explanation (But it is best to try to outline the reasons to better ducument this memo).
 
 ## Core Maintainer
-- ![Brian Obot](''https://www.github.com/brianobot') <brianobot9@gmail.com>
+- [Brian Obot](''https://www.github.com/brianobot') <brianobot9@gmail.com>
